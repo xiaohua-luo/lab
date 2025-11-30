@@ -1,3 +1,11 @@
+<style>
+body {
+  background-image: url("bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+</style>
+
 # Xiao-Hua Luo's Lab
 
 [Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Contact](/lab/contact)
