@@ -18,9 +18,6 @@
     Xiao-Hua Luo's Lab
   </h1>
 
-  <p style="font-size: 22px; font-weight: 400; margin-top: 14px;">
-    Precision Immunology · Virus-driven Immune Remodeling · HSCT & CAR-T
-  </p>
 
 </div>
 
