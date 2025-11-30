@@ -6,7 +6,7 @@
 
 ## Principal Investigator
 
-**Xiaohua Luo, MD, PhD**  
+**Xiao-Hua Luo, MD, PhD**  
 Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medical University
 
 
