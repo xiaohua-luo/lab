@@ -1,21 +1,16 @@
-<style> 
-/* 让内容区域更宽，减少两侧空白 */
-.main-content, .container, body > div {
-  max-width: 1100px !important;
-  margin: auto;
-}
-</style>
-
-<!-- Full-width banner -->
+<!-- Smart-width banner（保持图片原色） -->
 <div style="
-  width: 100vw;              /* 强制全屏宽度 */
-  margin-left: calc(50% - 50vw);  /* 让它跳出页面居中限制 */
+  max-width: 1400px;     /* 控制横幅宽度 */
+  margin: 0 auto;        /* 居中 */
   height: 260px;
   background:
-    url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg') center center / cover no-repeat;
+    url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg')
+    center center / cover no-repeat;
+  border-radius: 10px;   /* 可选：圆角，让页面更现代 */
   margin-bottom: 20px;
 ">
 </div>
+
 
 
 # Xiao-Hua Luo's Lab
