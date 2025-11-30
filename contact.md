@@ -1,6 +1,6 @@
 # Contact
 
-[Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Gallery](/lab/gallery) · [Contact](/lab/contact)
+[Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Contact](/lab/contact)
 
 ---
 
