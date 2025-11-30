@@ -12,7 +12,7 @@
   margin-left: calc(50% - 50vw);  /* 让它跳出页面居中限制 */
   height: 260px;
   background:
-    linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),   /* 降低饱和度 */
+    linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0.15)),   /* 降低饱和度 */
     url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg') center center / cover no-repeat;
   margin-bottom: 20px;
 ">
