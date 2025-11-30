@@ -30,10 +30,14 @@
 
 ---
 
-## Full List
+### Full List
 
-- Google Scholar: https://scholar.google.com/citations?user=UrioBZEAAAAJ&hl=en&inst=5746887945952177237
-- Pubmed: https://www.ncbi.nlm.nih.gov/myncbi/1h5SIXHYq7p/bibliography/public/
+- **Google Scholar** →  
+  [https://scholar.google.com/citations?user=UrioBZEAAAAJ&hl=en&inst=5746887945952177237](https://scholar.google.com/citations?user=UrioBZEAAAAJ&hl=en&inst=5746887945952177237)
+
+- **PubMed** →  
+  [https://www.ncbi.nlm.nih.gov/myncbi/1h5SIXHYq7p/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/1h5SIXHYq7p/bibliography/public/)
+
 
 
 
