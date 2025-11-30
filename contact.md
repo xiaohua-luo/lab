@@ -28,8 +28,7 @@ If you are interested in collaboration, please contact us by email.
 ---
 
 ## Main Site
-- https://orcid.org/0000-0002-0657-7738
-- https://www.researchgate.net/profile/Xiao_Hua_Luo4
-- https://www.ncbi.nlm.nih.gov/myncbi/1h5SIXHYq7p/bibliography/public/
+- [https://orcid.org/0000-0002-0657-7738](https://orcid.org/0000-0002-0657-7738)
+- [https://www.researchgate.net/profile/Xiao_Hua_Luo4](https://www.researchgate.net/profile/Xiao_Hua_Luo4)
 
 
