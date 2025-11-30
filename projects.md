@@ -1,5 +1,15 @@
 
-<style> body { background-image: url("car-t-cell-therapy-2x.jpg"); background-size: cover; background-attachment: fixed; } </style>
+<style>
+body {
+  background:
+    linear-gradient(rgba(255,255,255,0.55), rgba(255,255,255,0.55)),
+    url("car-t-cell-therapy-2x.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+</style>
+
 [Home](/lab) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Contact](/lab/contact)
 
 ---
