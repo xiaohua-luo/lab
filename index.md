@@ -1,3 +1,11 @@
+<style> 
+/* 让内容区域更宽，减少两侧空白 */
+.main-content, .container, body > div {
+  max-width: 1100px !important;
+  margin: auto;
+}
+</style>
+
 <!-- Full-width banner -->
 <div style="
   width: 100vw;              /* 强制全屏宽度 */
