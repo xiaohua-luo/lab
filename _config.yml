@@ -1,3 +1,10 @@
-theme: jekyll-theme-architect
+title: "Xiao-Hua Luo's Lab"
+description: "Virus-driven immune remodeling after HSCT and CAR-T, and immunotherapies in AML."
 
+remote_theme: "mmistakes/minimal-mistakes"
 
+plugins:
+  - jekyll-include-cache
+
+url: "https://xiaohua-luo.github.io"
+baseurl: "/lab"
