@@ -1,6 +1,6 @@
 <style>
 body {
-  background-image: url("bg.jpg");
+  background-image: url("BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
