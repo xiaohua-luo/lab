@@ -6,7 +6,7 @@
 
 ## Contact Information
 
-- **Name**: Xiaohua Luo, MD  
+- **Name**: Xiaohua Luo, MD, PhD
 - **Email**: xiaohua dot luo at gmail dot com
 --           xiaohua hyphen luo at 163 dot com
 - **Affiliation**: Department of Hematology, The First Affiliated Hospital of Chongqing Medical University
