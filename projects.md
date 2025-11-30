@@ -1,4 +1,5 @@
 # Projects
+<style> body { background-image: url("car-t-cell-therapy-2x.jpg"); background-size: cover; background-attachment: fixed; } </style>
 
 [Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Contact](/lab/contact)
 
