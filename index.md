@@ -1,13 +1,15 @@
 <!-- Full-width banner -->
 <div style="
-  width: 100%;
+  width: 100vw;              /* 强制全屏宽度 */
+  margin-left: calc(50% - 50vw);  /* 让它跳出页面居中限制 */
   height: 260px;
-  background: 
-    linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),
+  background:
+    linear-gradient(rgba(255,255,255,0.55), rgba(255,255,255,0.55)),   /* 降低饱和度 */
     url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg') center center / cover no-repeat;
   margin-bottom: 20px;
 ">
 </div>
+
 
 # Xiao-Hua Luo's Lab
 
