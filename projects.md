@@ -1,28 +1,39 @@
 # Projects
 
-## 1. Virus-driven Immune Remodeling
-研究 CMV / EBV 再激活对 HSCT / CAR-T 后免疫重建的影响。  
-- ddPCR 动态监测  
-- 病毒特异性免疫  
-- GvHD / relapse 风险模型
+[Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Gallery](/lab/gallery) · [Contact](/lab/contact)
+
+---
+
+## 1. Virus-Driven Immune Remodeling
+
+- 研究 CMV / EBV 再激活对 HSCT / CAR-T 后免疫重建的影响  
+- 使用 ddPCR、流式 / CyTOF、单细胞测序等手段  
+- 构建病毒动力学与免疫重建的风险预测模型  
 
 ---
 
 ## 2. CAR-T Hematologic Toxicity
-研究 CAR-T 后造血毒性，特别是血小板恢复与免疫环境变化。  
-包括 CyTOF、scRNA-seq 等多组学分析。
+
+- 关注 CAR-T 后造血毒性，尤其是血小板恢复模式  
+- 分析感染、出血、复发等预后指标  
+- 结合多组学数据刻画免疫微环境变化  
 
 ---
 
 ## 3. HSCT Immune Reconstitution
-重点关注 T/NK 细胞亚群、免疫重建时间窗、早期预测指标等。
+
+- 研究 T / NK 细胞亚群动态变化  
+- 早期免疫指标与 GvHD、复发、NRM 之间的关系  
+- 探索个体化随访与干预策略  
 
 ---
 
 ## 4. AML New Regimens
-HAV 方案相关研究（HHT + venetoclax + cytarabine）。  
-包含免疫学机制、多中心真实世界数据。
+
+- HAV 方案（翻译抑制剂 + venetoclax + cytarabine 等）的临床与免疫学研究  
+- 年轻 / 中年 / 老年 AML 患者间差异  
+- 长期生存者的免疫特征及预测因素  
 
 ---
 
-> 本页面精简展示当前与未来项目，可随时补充详情。
+> 本页面简洁展示项目方向，具体课题可在未来逐步扩展。
