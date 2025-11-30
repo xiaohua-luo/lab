@@ -1,4 +1,13 @@
-![Our Lab Banner](BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg)
+<!-- Full-width banner -->
+<div style="
+  width: 100%;
+  height: 260px;
+  background: 
+    linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),
+    url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg') center center / cover no-repeat;
+  margin-bottom: 20px;
+">
+</div>
 
 # Xiao-Hua Luo's Lab
 
