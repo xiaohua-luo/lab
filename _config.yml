@@ -1,2 +1,4 @@
 title: "Xiao-Hua Luo's Lab"
 theme: jekyll-theme-minimal
+include:
+  - assets/css
