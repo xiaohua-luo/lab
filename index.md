@@ -2,10 +2,7 @@
 
 [Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Gallery](/lab/gallery) · [Contact](/lab/contact)
 
-欢迎来到我的实验室主页（Lab Page）。
-
-我们专注于血液病学与移植免疫领域的研究展示。
-
+Our laboratory investigates how viral infections reshape the immune ecosystem in patients undergoing hematopoietic transplantation and advanced cellular therapies. We integrate high-dimensional immune profiling, viral immunology, and computational systems biology to uncover the principles of virus-driven immune remodeling and its impact on treatment response, infection risk, and disease relapse.
 ---
 
 ## 🔬 Research Focus
@@ -29,7 +26,6 @@
 - [Lab Members](/lab/members)  
 - [Projects](/lab/projects)  
 - [Publications](/lab/publications)  
-- [Gallery](/lab/gallery)  
 - [Contact](/lab/contact)
 
 ---
@@ -39,5 +35,3 @@
 
 
 
-> 本页面用于简洁展示研究方向与核心信息。  
-> 更多信息请访问主站：<https://xiaohua-luo.github.io>
