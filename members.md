@@ -16,29 +16,29 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 
 
 ## Students & Trainees
-Na-Na Tang
-Ju Li
-Li Huang
-Jiu-Fang Cao
-Qian Wang
-Chao-Can He
-Ruo-Nan Zhang
-Jing Wen
-Cai-Xia Pei
-Xin Xie
-Shuang Zuo
-Jin-Hong Sun
+- Na-Na Tang
+- Ju Li
+- Li Huang
+- Jiu-Fang Cao
+- Qian Wang
+- Chao-Can He
+- Ruo-Nan Zhang
+- Jing Wen
+- Cai-Xia Pei
+- Xin Xie
+- Shuang Zuo
+- Jin-Hong Sun
 
 
 ## Alumni
-Yu-Lin Zhang
-Juan Du
-Yu Xia
-Zai-Li Zhang
-Li-Ping Shui
-Yu-Ting Chen
-Xiao-Qin Duan
-Wen Peng
-Lan Wang
-He-Lian Li
+- Yu-Lin Zhang
+- Juan Du
+- Yu Xia
+- Zai-Li Zhang
+- Li-Ping Shui
+- Yu-Ting Chen
+- Xiao-Qin Duan
+- Wen Peng
+- Lan Wang
+- He-Lian Li
 
