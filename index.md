@@ -5,6 +5,7 @@ body {
   background-attachment: fixed;
 }
 </style>
+<link rel="stylesheet" href="/assets/css/custom.css">
 
 # Xiao-Hua Luo's Lab
 
