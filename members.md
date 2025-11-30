@@ -26,7 +26,7 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 - Jing Wen
 - Cai-Xia Pei
 - Xin Xie
-- Shuang Zuo
+- Shuang Zhuo
 - Jin-Hong Sun
 
 
