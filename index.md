@@ -1,8 +1,8 @@
 <!-- Smart-width banner（保持图片原色） -->
 <div style="
-  max-width: 1400px;     /* 控制横幅宽度 */
+  max-width: 1600px;     /* 控制横幅宽度 */
   margin: 0 auto;        /* 居中 */
-  height: 260px;
+  height: 280px;
   background:
     url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg')
     center center / cover no-repeat;
