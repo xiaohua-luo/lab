@@ -1,7 +1,7 @@
 <!-- 顶部横幅 Banner（白字 + 深色遮罩） -->
 <div style="
   width: 100%;
-  height: 320px;
+  height: 300px;
   background:
     linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
     url('BLOOD-AND-MARROW-STEM-CELL-TRANSPLANTATION.jpg') center center / cover no-repeat;
@@ -13,16 +13,13 @@
   text-align: center;
 ">
 
-  <h1 style="font-size: 42px; font-weight: 900; margin: 0;">
-    Welcome to Luo Lab
+  <h1 style="font-size: 46px; font-weight: 900; margin: 0;">
+    Xiao-Hua Luo’s Lab
   </h1>
 
-  <p style="font-size: 20px; margin-top: 12px; font-weight: 300;">
-    Precision Immunology · Virus-driven Immune Remodeling · HSCT & CAR-T
-  </p>
 </div>
 
-<!-- 主内容区 -->
+<!-- 主内容区域 -->
 <div style="
   max-width: 900px;
   margin: 40px auto;
@@ -30,6 +27,9 @@
   padding: 36px;
   border-radius: 14px;
   box-shadow: 0 10px 28px rgba(0,0,0,0.15);
+  font-size: 18px;
+  color: #333;
+  line-height: 1.7;
 ">
 
 [Home](/lab) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Contact](/lab/contact)
