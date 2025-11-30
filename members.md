@@ -29,6 +29,4 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 
 ## Alumni
 
-未来如有离组成员，可在此记录：
-
 - TBD
