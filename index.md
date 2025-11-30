@@ -1,4 +1,3 @@
-_includes/head.html
 <!-- Smart-width banner（保持图片原色） -->
 <div style="
   max-width: 1400px;     /* 控制横幅宽度 */
