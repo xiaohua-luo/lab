@@ -7,22 +7,26 @@
 ## Contact Information
 
 - **Name**: Xiaohua Luo, MD  
-- **Email**: your.email@example.com  
-- **Affiliation**: Visiting Scholar, Stanford University  
+- **Email**: xiaohua dot luo at gmail dot com
+--           xiaohua hyphen luo at 163 dot com
+- **Affiliation**: Department of Hematology, The First Affiliated Hospital of Chongqing Medical University
 - **Field**: Hematology, HSCT, CAR-T, Viral Immunology  
 
 ---
 
 ## Collaboration
 
-欢迎在以下方向开展合作：
+We welcome collaborations in the following areas:
 
-- 造血干细胞移植后免疫重建与并发症预测  
-- 病毒再激活（CMV / EBV）与免疫重塑  
-- CAR-T 治疗相关毒性与长期随访  
-- AML 新方案的临床与免疫机制研究  
+- Immune reconstitution and complication prediction after hematopoietic stem cell transplantation
 
-如有合作意向，请通过邮箱联系。
+- Viral reactivation (CMV / EBV) and virus-driven immune remodeling
+
+- CAR-T intrinsic resistance and long-term follow-up
+
+- Clinical studies and immunologic mechanisms of novel therapeutic strategies in AML
+
+If you are interested in collaboration, please contact us by email.
 
 ---
 
