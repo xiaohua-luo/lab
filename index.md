@@ -1,8 +1,10 @@
 # Xiaohua Luo Lab
 
+[Home](/lab/) · [Members](/lab/members) · [Projects](/lab/projects) · [Publications](/lab/publications) · [Gallery](/lab/gallery) · [Contact](/lab/contact)
+
 欢迎来到我的实验室主页（Lab Page）。
 
-我们专注于血液病学与移植免疫领域的简洁研究展示。
+我们专注于血液病学与移植免疫领域的研究展示。
 
 ---
 
@@ -18,41 +20,23 @@
   病毒再激活与免疫重建的互作关系，多组学免疫 profiling。
 
 - **AML New Regimens**  
-  包含蛋白翻译抑制剂、BCL-2 抑制剂、低剂量化疗的新治疗方式。
+  含蛋白翻译抑制剂、BCL-2 抑制剂和低剂量化疗的新方案及机制研究。
 
 ---
 
-## 👥 Lab Members
+## 📄 Quick Links
 
-- **Xiaohua Luo, MD**  
-  Hematologist · Visiting Scholar · Stanford University  
-
-（此处可根据需要添加更多成员或合作者）
-
----
-
-## 📄 Selected Publications
-
-- 代表性论文 1  
-- 代表性论文 2  
-- 代表性论文 3  
-
-（你可以后续填入真实论文）
+- [Lab Members](/lab/members)  
+- [Projects](/lab/projects)  
+- [Publications](/lab/publications)  
+- [Gallery](/lab/gallery)  
+- [Contact](/lab/contact)
 
 ---
 
-## 📫 Contact
+> 本页面用于简洁展示研究方向与核心信息。  
+> 更多个人信息请访问主站：<https://xiaohua-luo.github.io>
 
-- Email: **your.email@example.com**  
-- Location: Stanford University  
-
----
-
-## Links
-
-- [Members](./members)
-- [Projects](./projects)
-- [Publications](./publications)
 
 
 > 本页面用于简洁展示研究方向与核心信息。  
