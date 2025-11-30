@@ -2,7 +2,7 @@
 <style>
 body {
   background:
-    linear-gradient(rgba(255,255,255,0.40), rgba(255,255,255,0.40)),
+    linear-gradient(rgba(255,255,255,0.50), rgba(255,255,255,0.50)),
     url("car-t-cell-therapy-2x.jpg");
   background-size: cover;
   background-attachment: fixed;
