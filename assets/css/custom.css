@@ -1,0 +1,9 @@
+/* 全局页面宽度优化 —— 让左右空白更舒服 */
+.container-lg, .container, .main-content {
+  max-width: 900px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* 如果你想让 banner 也更统一可以加（可选）*/
+/* .banner { ... } */
