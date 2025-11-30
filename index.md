@@ -1,6 +1,8 @@
 # Xiaohua Luo Lab
 
-这里是课题组（Lab）主页测试页面。
+欢迎访问我的实验室网页（Lab Page）。
 
-- 研究方向：HSCT、CAR-T、CMV/EBV、AML 等  
-- 这是项目站点：`https://xiaohua-luo.github.io/lab/`
+这里是测试页面，确保 GitHub Pages 正常工作。
+
+- 研究方向：CAR-T、HSCT、CMV、EBV、AML  
+- 这是项目网站：https://xiaohua-luo.github.io/lab/
