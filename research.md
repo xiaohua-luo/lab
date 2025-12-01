@@ -10,27 +10,29 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
   margin: 0;
   padding: 0;
+
+  padding-top: 45px; /* ⭐ 页面顶部留白，让布局更美观 */
 }
 
-/* ---- 导航栏：保持 GitHub 主题原有颜色 ---- */
+/* ---- 导航栏 ---- */
 .navbar {
   text-align: center;
   font-size: 16px;
   margin: 25px 0 5px 0;
 }
 
-/* 不再设置 color，直接使用主题默认链接色（和首页一致） */
 .navbar a {
+  color: #003262;   /* 保留与你截图一致的导航颜色 */
   text-decoration: none;
   margin: 0 10px;
-  font-weight: 400;
+  font-weight: 400;  /* 正常字重，无加粗 */
 }
 
 .navbar a:hover {
   text-decoration: underline;
 }
 
-/* 去掉导航栏下方的那条线 */
+/* 去掉导航栏下方灰线 */
 .navbar + hr {
   display: none !important;
 }
@@ -42,7 +44,7 @@ body {
   padding: 0 18px;
 }
 
-/* ---- Section 卡片样式 ---- */
+/* ---- Section ---- */
 .lab-section {
   background: rgba(255,255,255,0.88);
   border-radius: 10px;
@@ -52,7 +54,6 @@ body {
   border-left: 4px solid #8c1515; /* Stanford Cardinal */
 }
 
-/* ---- Section 标题 ---- */
 .lab-section h2 {
   font-size: 21px;
   margin: 0 0 8px 0;
@@ -60,21 +61,15 @@ body {
   font-weight: 600;
 }
 
-/* ---- 正文 ---- */
 .lab-section p {
   font-size: 16px;
   line-height: 1.68;
   color: #333;
   margin: 0;
 }
-
 </style>
 
-
-
 [Home](/lab) · [Members](/lab/members) · [Research](/lab/research) · [Publications](/lab/publications) · [Contact](/lab/contact)
-
-
 
 <!-- ---- 内容主体 ---- -->
 <div class="lab-container">
@@ -101,3 +96,10 @@ body {
   </div>
 
 </div>
+
+
+
+
+
+
+
