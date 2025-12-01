@@ -1,38 +1,85 @@
+---
+layout: page
+title: Research
+permalink: /lab/research/
+---
+
 <style>
-/* 只针对 Research 正文做一点排版，不动全局样式 */
+/* ---- 背景 ---- */
+body {
+  background:
+    linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.60)),
+    url("car-t-cell-therapy-2x.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+}
 
-/* 主体容器：宽度与原页面相近，略微居中 */
+/* ---- 导航栏 ---- */
+.navbar {
+  text-align: center;
+  font-size: 16px;
+  margin: 25px 0 10px 0;
+}
+
+.navbar a {
+  color: #8c1515;  /* Stanford Cardinal */
+  text-decoration: none;
+  margin: 0 12px;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+/* ---- 主体容器 ---- */
 .lab-container {
-  max-width: 820px;
-  margin: 10px auto 40px auto;
-  padding: 0 10px;
+  max-width: 900px;
+  margin: 35px auto 60px auto;
+  padding: 0 15px;
 }
 
-/* 每个研究方向一个小模块，边框很轻，不抢眼 */
+/* ---- 区块样式 ---- */
 .lab-section {
-  background: #ffffff;
-  border-radius: 6px;
-  padding: 14px 16px;
-  margin-bottom: 16px;
-  border-left: 3px solid #8c1515;   /* 深红细边 */
+  background: rgba(255,255,255,0.92);
+  border-radius: 12px;
+  padding: 22px 26px;
+  margin-bottom: 28px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.10);
+  border-left: 5px solid #8c1515;
 }
 
-/* 标题：略加粗，字号比正文大一点即可 */
+/* ---- 标题 ---- */
 .lab-section h2 {
-  font-size: 20px;
-  margin: 0 0 6px 0;
-  color: #222;
-  font-weight: 600;
+  font-size: 22px;
+  margin: 0 0 10px 0;
+  color: #2c3e50;
+  font-weight: 650;
+  letter-spacing: -0.3px;
 }
 
-/* 正文：保持和主题接近的行距与字号 */
+/* ---- 正文 ---- */
 .lab-section p {
-  font-size: 15px;
-  line-height: 1.6;
+  font-size: 16.5px;
+  line-height: 1.75;
   color: #333;
   margin: 0;
 }
 </style>
+
+<div class="navbar">
+  <a href="/lab">Home</a> ·
+  <a href="/lab/members">Members</a> ·
+  <a href="/lab/research/">Research</a> ·
+  <a href="/lab/publications">Publications</a> ·
+  <a href="/lab/contact">Contact</a>
+</div>
+
+<hr style="max-width:900px; border:0; border-top:1px solid #ccc; margin-bottom:30px;">
 
 <div class="lab-container">
 
