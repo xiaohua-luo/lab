@@ -12,15 +12,15 @@ body {
   padding: 0;
 }
 
-/* ---- 导航栏：保持 GitHub 默认蓝色 ---- */
+/* ---- 导航栏：保持 GitHub 主题原有颜色 ---- */
 .navbar {
   text-align: center;
   font-size: 16px;
   margin: 25px 0 5px 0;
 }
 
+/* 不再设置 color，直接使用主题默认链接色（和首页一致） */
 .navbar a {
-  color: #0366d6;  /* GitHub 默认链接蓝色 */
   text-decoration: none;
   margin: 0 10px;
   font-weight: 500;
@@ -30,7 +30,7 @@ body {
   text-decoration: underline;
 }
 
-/* 去掉导航栏下方的黄色线 —— 直接隐藏 hr */
+/* 去掉导航栏下方的那条线 */
 .navbar + hr {
   display: none !important;
 }
@@ -79,7 +79,6 @@ body {
   <a href="/lab/contact">Contact</a>
 </div>
 
-<!-- 下划线已被隐藏，无需删除 -->
 <hr>
 
 <!-- ---- 内容主体 ---- -->
