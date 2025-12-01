@@ -70,14 +70,7 @@ body {
 
 </style>
 
-<!-- ---- 导航栏 ---- -->
-<div class="navbar">
-  <a href="/lab">Home</a> ·
-  <a href="/lab/members">Members</a> ·
-  <a href="/lab/research">Research</a> ·
-  <a href="/lab/publications">Publications</a> ·
-  <a href="/lab/contact">Contact</a>
-</div>
+[Home](/lab) · [Members](/lab/members) · [Research](/lab/research) · [Publications](/lab/publications) · [Contact](/lab/contact)
 
 <hr>
 
