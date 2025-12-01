@@ -1,83 +1,39 @@
 <style>
-/* ---- 背景：更轻、更柔和 ---- */
-body {
-  background:
-    linear-gradient(rgba(255,255,255,0.65), rgba(255,255,255,0.65)),
-    url("car-t-cell-therapy-2x.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
-  margin: 0;
-  padding: 0;
-}
+/* 只针对 Research 正文做一点排版，不动全局样式 */
 
-/* ---- 导航栏：更简洁 ---- */
-.navbar {
-  text-align: center;
-  font-size: 16px;
-  margin: 25px 0 5px 0;
-  opacity: 0.95;
-}
-
-.navbar a {
-  color: #8c1515;
-  text-decoration: none;
-  margin: 0 10px;
-  font-weight: 500;
-}
-
-.navbar a:hover {
-  text-decoration: underline;
-}
-
-/* ---- 主体容器：保留左右留白，但更自然 ---- */
+/* 主体容器：宽度与原页面相近，略微居中 */
 .lab-container {
-  max-width: 880px;
-  margin: 30px auto 60px auto;
-  padding: 0 18px;
+  max-width: 820px;
+  margin: 10px auto 40px auto;
+  padding: 0 10px;
 }
 
-/* ---- 单个 Section：更轻、更通透、阴影更柔 ---- */
+/* 每个研究方向一个小模块，边框很轻，不抢眼 */
 .lab-section {
-  background: rgba(255,255,255,0.88);
-  border-radius: 10px;
-  padding: 18px 22px;
-  margin-bottom: 26px;
-  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
-  border-left: 4px solid #8c1515; /* Stanford Cardinal */
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 14px 16px;
+  margin-bottom: 16px;
+  border-left: 3px solid #8c1515;   /* 深红细边 */
 }
 
-/* ---- Section 标题：更清爽、更接近旧风格 ---- */
+/* 标题：略加粗，字号比正文大一点即可 */
 .lab-section h2 {
-  font-size: 21px;
-  margin: 0 0 8px 0;
-  color: #2c3e50;
+  font-size: 20px;
+  margin: 0 0 6px 0;
+  color: #222;
   font-weight: 600;
 }
 
-/* ---- 正文：更舒服的密度 ---- */
+/* 正文：保持和主题接近的行距与字号 */
 .lab-section p {
-  font-size: 16px;
-  line-height: 1.68;
+  font-size: 15px;
+  line-height: 1.6;
   color: #333;
   margin: 0;
 }
-
 </style>
 
-<!-- ---- 导航栏 ---- -->
-<div class="navbar">
-  <a href="/lab">Home</a> ·
-  <a href="/lab/members">Members</a> ·
-  <a href="/lab/research">Research</a> ·
-  <a href="/lab/publications">Publications</a> ·
-  <a href="/lab/contact">Contact</a>
-</div>
-
-<hr style="max-width:880px; border:0; border-top:1px solid #ddd; margin-bottom:25px;">
-
-<!-- ---- 内容主体 ---- -->
 <div class="lab-container">
 
   <div class="lab-section">
