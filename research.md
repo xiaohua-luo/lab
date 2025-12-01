@@ -70,7 +70,7 @@ body {
 <div class="navbar">
   <a href="/lab">Home</a> ·
   <a href="/lab/members">Members</a> ·
-  <a href="/lab/Research">Research</a> ·
+  <a href="/lab/research">Research</a> ·
   <a href="/lab/publications">Publications</a> ·
   <a href="/lab/contact">Contact</a>
 </div>
