@@ -12,16 +12,15 @@ body {
   padding: 0;
 }
 
-/* ---- 导航栏：更简洁 ---- */
+/* ---- 导航栏：保持 GitHub 默认蓝色 ---- */
 .navbar {
   text-align: center;
   font-size: 16px;
   margin: 25px 0 5px 0;
-  opacity: 0.95;
 }
 
 .navbar a {
-  color: #8c1515;
+  color: #0366d6;  /* GitHub 默认链接蓝色 */
   text-decoration: none;
   margin: 0 10px;
   font-weight: 500;
@@ -31,14 +30,19 @@ body {
   text-decoration: underline;
 }
 
-/* ---- 主体容器：保留左右留白，但更自然 ---- */
+/* 去掉导航栏下方的黄色线 —— 直接隐藏 hr */
+.navbar + hr {
+  display: none !important;
+}
+
+/* ---- 主体容器 ---- */
 .lab-container {
   max-width: 880px;
   margin: 30px auto 60px auto;
   padding: 0 18px;
 }
 
-/* ---- 单个 Section：更轻、更通透、阴影更柔 ---- */
+/* ---- Section 卡片样式 ---- */
 .lab-section {
   background: rgba(255,255,255,0.88);
   border-radius: 10px;
@@ -48,7 +52,7 @@ body {
   border-left: 4px solid #8c1515; /* Stanford Cardinal */
 }
 
-/* ---- Section 标题：更清爽、更接近旧风格 ---- */
+/* ---- Section 标题 ---- */
 .lab-section h2 {
   font-size: 21px;
   margin: 0 0 8px 0;
@@ -56,7 +60,7 @@ body {
   font-weight: 600;
 }
 
-/* ---- 正文：更舒服的密度 ---- */
+/* ---- 正文 ---- */
 .lab-section p {
   font-size: 16px;
   line-height: 1.68;
@@ -75,7 +79,8 @@ body {
   <a href="/lab/contact">Contact</a>
 </div>
 
-<hr style="max-width:880px; border:0; border-top:1px solid #ddd; margin-bottom:25px;">
+<!-- 下划线已被隐藏，无需删除 -->
+<hr>
 
 <!-- ---- 内容主体 ---- -->
 <div class="lab-container">
