@@ -23,7 +23,7 @@ body {
 .navbar a {
   text-decoration: none;
   margin: 0 10px;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .navbar a:hover {
