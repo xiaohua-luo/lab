@@ -1,4 +1,4 @@
-[Home](/lab) · [Members](/lab/members) · [Research](/lab/research) · [Publications](/lab/publications) · [Contact](/lab/contact)
+[Home](/lab) · [Research](/lab/research) · [Members](/lab/members) · [Publications](/lab/publications) · [Contact](/lab/contact)
 
 ## Contact Information
 
