@@ -15,11 +15,9 @@
 
 We welcome collaborations in the following areas:
 
-- Immune reconstitution and complication prediction after hematopoietic stem cell transplantation
+- Immune reconstitution and complication prediction after hematopoietic stem cell transplantation and advanced cellular therapy.
 
 - Viral reactivation (CMV / EBV) and virus-driven immune remodeling
-
-- CAR-T intrinsic resistance and long-term follow-up
 
 - Clinical studies and immunologic mechanisms of novel therapeutic strategies in AML
 
