@@ -1,6 +1,7 @@
 [Home](/lab) · [Research](/lab/research) · [Members](/lab/members) · [Publications](/lab/publications) · [Contact](/lab/contact)
 
 ## Selected Publications
+
 - Xiao-Hua Luo, Na-Na Tang, Li Wang, Yan Zhu, Lin Liu, Shuang-Nian Xu, Li Yang, Qian Zhan, Xin Wang, Jian-Bin Chen. A venetoclax-cytarabine-based induction regimen incorporating a translation inhibitor for adult patients with de novo AML. Cancer. 2026
 - Wang L, Zhan Q, Luo J, Li J, He C, Zhu Y, Pei CX, Chen Y, Tang NN, Yin J, Su L. MSLN expression predicts a high risk of EMD in AML by promoting cell adhesion and metastasis via interaction with MUC16. Blood Advances. 2026 Mar 17.
 - Huang L, Wang Q, Li HL, Peng W, Yang L, Liu L, Wang L, Luo XH*. Flu/Cy Plus PTCy Conditioning Regimen in Haplo‐HSCT of Severe Aplastic Anemia. American Journal of Hematology. 2026.
