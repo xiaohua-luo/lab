@@ -2,8 +2,8 @@
 
 ## Selected Publications
 
-- Xiao-Hua Luo, Na-Na Tang, Li Wang, Yan Zhu, Lin Liu, Shuang-Nian Xu, Li Yang, Qian Zhan, Xin Wang, Jian-Bin Chen. A venetoclax-cytarabine-based induction regimen incorporating a translation inhibitor for adult patients with de novo AML. Cancer. 2026
-- Wang L, Zhan Q, Luo J, Li J, He C, Zhu Y, Pei CX, Chen Y, Tang NN, Yin J, Su L. MSLN expression predicts a high risk of EMD in AML by promoting cell adhesion and metastasis via interaction with MUC16. Blood Advances. 2026 Mar 17.
+- Xiao-Hua Luo*, Na-Na Tang, Li Wang, Yan Zhu, Lin Liu, Shuang-Nian Xu, Li Yang, Qian Zhan, Xin Wang, Jian-Bin Chen. A venetoclax-cytarabine-based induction regimen incorporating a translation inhibitor for adult patients with de novo AML. Cancer. 2026
+- Wang L, Zhan Q, Luo J, Li J, He C, Zhu Y, Pei CX, Chen Y, Tang NN, Yin J, Su L，Chen JJ, Xie ML, Liu L*, Luo XH*. MSLN expression predicts a high risk of EMD in AML by promoting cell adhesion and metastasis via interaction with MUC16. Blood Advances. 2026 Mar 17.
 - Huang L, Wang Q, Li HL, Peng W, Yang L, Liu L, Wang L, Luo XH*. Flu/Cy Plus PTCy Conditioning Regimen in Haplo‐HSCT of Severe Aplastic Anemia. American Journal of Hematology. 2026.
 -	Luo XH*, Zhu Y, Duan XQ, Peng W, Pei CX, Yang L, Li Q, Zhao M, Wang L. Histone HIST1 genes and tumor-infiltrating lymphocytes in a child with γδ T cell acute lymphoblastic leukemia by single-cell sequencing. Journal of Leukocyte Biology. 2025 Apr;117(4):qiaf022.
 -	Shui LP, Zhu Y, Duan XQ, Chen YT, Yang L, Tang XQ, Zhang HB, Xiao Q, Wang L, Liu L, Luo XH*. HBsAg (‐)/HBsAb (‐)/HBeAg (‐)/HBeAb (+)/HBcAb (+) predicts a high risk of hepatitis B reactivation in patients with B ‐ cell lymphoma receiving rituximab based immunochemotherapy. Journal of Medical Virology. 2023 Feb 3.
