@@ -81,9 +81,9 @@ body {
   </div>
 
   <div class="lab-section">
-    <h2>Precision immunology and immunotherapy in acute myeloid leukemia</h2>
+    <h2>Precision immunology and immunotherapy in acute leukemia</h2>
     <p>
-      AML provides a key model for understanding therapy-driven immune remodeling. We examine how treatment strategies and the evolving immune landscape shape disease outcomes, and explore immunotherapy approaches aimed at strengthening antileukemic immunity and improving long-term survival.
+      Acute leukemia provides a key model for understanding therapy-driven immune remodeling. We examine how treatment strategies and the evolving immune landscape shape disease outcomes, and explore immunotherapy approaches aimed at strengthening antileukemic immunity and improving long-term survival.
     </p>
   </div>
 
