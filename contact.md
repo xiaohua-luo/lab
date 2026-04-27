@@ -19,7 +19,7 @@ We welcome collaborations in the following areas:
 
 - Viral reactivation (CMV / EBV) and virus-driven immune remodeling
 
-- Clinical studies and immunologic mechanisms of novel therapeutic strategies in AML
+- Clinical studies and immunologic mechanisms of novel therapeutic strategies in acute leukemia
 
 If you are interested in collaboration, please contact us by email.
 
