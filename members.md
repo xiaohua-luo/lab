@@ -28,6 +28,8 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 - Xin Xie
 - Shuang Zhuo
 - Jin-Hong Sun
+- Qiong Xiao
+- Xue-Ning Zhou
 
 
 ## Alumni
