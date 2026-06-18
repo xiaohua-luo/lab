@@ -39,6 +39,7 @@ Hematologist · Immunologist · The First Affiliated Hospital of Chongqing Medic
 - Yuan-Yuan Fu
 - Jing Huang
 - Zai-Li Zhang
+- Sha Li
 - Li-Ping Shui
 - Yu-Ting Chen
 - Xiao-Qin Duan
